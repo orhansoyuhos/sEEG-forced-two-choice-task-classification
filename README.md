@@ -1,4 +1,4 @@
-# sEEG Forced Two-Choice Task Classification
+# sEEG forced two-choice task classification
 This repository contains the code and findings of a project carried out during the NeuralStorm Workshop in 2023. On the final day of the workshop, a competition was held to classify choices made in a sEEG Forced Two-Choice Task. Teaming up with Wenqing from CCLAB, we secured a tie for the first place in the competition!
 
 ## Overview
